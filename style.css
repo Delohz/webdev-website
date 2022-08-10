@@ -270,3 +270,7 @@ transition: 1s ease all;
         display: none;
      }
 }
+
+[class*="col-"]{
+    width: 100%;
+}
